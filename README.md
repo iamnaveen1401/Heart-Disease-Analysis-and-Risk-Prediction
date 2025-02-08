@@ -77,8 +77,8 @@ The dataset used for this project contains patient health records with various f
 
 
 **🔗 Connect with me:**
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [iamnaveen1401](https://github.com/iamnaveen1401)
+- LinkedIn: [naveen1401](https://www.linkedin.com/in/naveen1401/)
 
 📌 *Star this repo if you found it useful! ⭐*
 
